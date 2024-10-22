@@ -25,7 +25,7 @@
 ### Задание 5
 Поиграть в Crossout Mobile на iOS или Android и описать правила работы рынка в игре.
 
-File: 01.game_monetization_analysis.docx
+File: 01.game_monetization_analysis.pdf
 
 
 ## Контактная информация
