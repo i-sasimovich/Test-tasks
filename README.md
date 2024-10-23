@@ -24,3 +24,6 @@
 |-------|----------------------------------------|-----------------------------------------------------|------------------------------|------------|
 | 2023  | **Data Cleaning for a Banking Sector Company** | Очистка и обработка данных для банка  | Python, Excel VBA              | [Смотреть](https://github.com/i-sasimovich/Test-tasks/tree/main/2023_Data_cleaning_for_a_banking_sector_company) |
 
+
+## Контактная информация
+Связаться со мной можно по email: i.sasimovich@yandex.by или через Telegram: [@ihar367](http://t.me/ihar367).
