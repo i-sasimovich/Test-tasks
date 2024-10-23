@@ -22,6 +22,7 @@
 
 | Год   | Проект                                 | Описание                                             | Технологии                   | Ссылка     |
 |-------|----------------------------------------|-----------------------------------------------------|------------------------------|------------|
+| 2023  | **Cloud Docs Usage Analysis**          | Анализ одновременных подключений к облачным документам | Python | [Смотреть](https://github.com/i-sasimovich/Test-tasks/tree/main/2023%20Product_analyst_task_cloud_docs_analysis) |
 | 2023  | **Data Cleaning for a Banking Sector Company** | Очистка и обработка данных для банка  | Python, Excel VBA              | [Смотреть](https://github.com/i-sasimovich/Test-tasks/tree/main/2023_Data_cleaning_for_a_banking_sector_company) |
 
 
