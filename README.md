@@ -15,7 +15,7 @@
 |-------|------------------------------------------|-----------------------------------------------------------------|-----------------------------------|------------|
 | 2024  | **SQL Game Data Analyst Task**           | Генерация данных, SQL-запросы для анализа активности пользователей | Python, SQL           | [Смотреть](https://github.com/i-sasimovich/Test-tasks/tree/main/GameDev.Game_Analytics-Test-tasks/2024_SQL_Game_Data_Analyst_Task) |
 | 2024  | **Operations Manager / Analyst. Game Monetization Analysis**     | Анализ монетизации, предложения по улучшению, пуш-уведомления    | -----                        | [Смотреть](https://github.com/i-sasimovich/Test-tasks/tree/main/GameDev.Game_Analytics-Test-tasks/2024_Operations_Manager_Game_Monetization_Analysis) |
-| 2024  | **Игровой Аналитик Данных**              | Анализ механик игры, рекомендации по метрикам              | Python, SQL          | [Смотреть](https://github.com/i-sasimovich/Test-tasks/tree/main/GameDev.Game_Analytics-Test-tasks/2024_Game_Analyst_Mobile_Game_Analysis_Project) |
+| 2024  | **Game Analyst. Mobile Game Analysis Project**              | Анализ механик игры, рекомендации по метрикам              | Python, SQL          | [Смотреть](https://github.com/i-sasimovich/Test-tasks/tree/main/GameDev.Game_Analytics-Test-tasks/2024_Game_Analyst_Mobile_Game_Analysis_Project) |
 | 2023  | **Junior Data Analyst**                  | Анализ данных игроков, теория вероятности, статистический анализ | Python     | [Смотреть](https://github.com/i-sasimovich/Test-tasks/tree/main/GameDev.Game_Analytics-Test-tasks/2023_Junior_Data_Analyst_Test_Task) |
 
 ### II. Прочие проекты
