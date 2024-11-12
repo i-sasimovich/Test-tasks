@@ -8,11 +8,11 @@
 
 ## Тестовые задания
 
-### 2024 – Game Analyst Test Task (Midcore Game) 📊🛠️
-**Компания**: Разработчик mid-core игр
-**Используемые технологии**: PostgreSQL
-**Задачи**: Анализ механик mid-core игры, расчет ARPU, Retention, баланс экономики.
-**Ссылка**: [Смотреть проект](https://github.com/i-sasimovich/Test-tasks/tree/main/GameDev.Game_Analytics-Test-tasks/2024_Game_Analyst_Test_Task__midcore_game)
+### 2024 – Game Analyst Test Task (Midcore Game) 📊🛠️  
+**Компания**: Разработчик mid-core игр  
+**Используемые технологии**: PostgreSQL  
+**Задачи**: Анализ механик mid-core игры, расчет ARPU, Retention, баланс экономики.  
+**Ссылка**: [Смотреть проект](https://github.com/i-sasimovich/Test-tasks/tree/main/GameDev.Game_Analytics-Test-tasks/2024_Game_Analyst_Test_Task___Midcore_game_Analysis)
 
 ### 2024 – SQL Game Data Analyst Task  📊🛠️
 **Компания**: Разработчик казуальных игр  
